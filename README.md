@@ -1,4 +1,4 @@
-# Youtube MrBeastify
+# Youtube Felipeify
 
 Aprimore sua experiência de navegação com o Felipeify. Sua experiência com o navegador é entediante? Sem opiniões obvias e reações obvias em sua TimeLine? Não tema mais. Essa extensão adiciona o nosso famoso corujão Felipe Neto a cada miniatura e adiciona opiniões obvias sobre o nosso mundo em seu perfil do twitter
 
