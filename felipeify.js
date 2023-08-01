@@ -50,11 +50,14 @@ function GetUrlTweetFelipe() {
       return
     });
 }
+
+GetUrlTweetFelipe()
+
 setInterval(getTweetAndChange, 100)
 
 // MrBeast Code
 
-// Apply the overlay
+// Get the URL of an image
 function applyOverlay(thumbnailElement, overlayImageURL, flip = false) {
   if (thumbnailElement.nodeName == "IMG") {
     // Create a new img element for the overlay
@@ -197,8 +200,6 @@ function GetFlipBlocklist() {
       blacklistStatus = "No flip blacklist found. Proceeding without it."
     });
 }
-
-GetUrlTweetFelipe()
 
 GetFlipBlocklist()
 

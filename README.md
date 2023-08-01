@@ -1,6 +1,6 @@
 # Youtube MrBeastify
 
-Enhance your browsing experience with MrBeastifier. Is your browser experience boring? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds famous youtuber MrBeast to every thumbnail.
+Aprimore sua experiência de navegação com o Felipeify. Sua experiência com o navegador é entediante? Sem opiniões obvias e reações obvias em sua TimeLine? Não tema mais. Essa extensão adiciona o nosso famoso corujão Felipe Neto a cada miniatura e adiciona opiniões obvias sobre o nosso mundo em seu perfil do twitter
 
 Instructions on how to port and modify the extension can be found [here](https://github.com/MagicJinn/MrBeastify-Youtube/issues/16).
 
